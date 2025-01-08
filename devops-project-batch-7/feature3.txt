@@ -1,4 +1,9 @@
 this is file3
 
 
+<<<<<<< HEAD
 yesss i did this
+=======
+
+how can i do that ?
+>>>>>>> master1
